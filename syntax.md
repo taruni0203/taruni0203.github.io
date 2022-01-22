@@ -69,6 +69,7 @@ end
 ### There's a horizontal rule below this.
 
 * * *
+- - -
 
 ### Here is an unordered list:
 
